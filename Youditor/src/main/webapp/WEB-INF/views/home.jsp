@@ -12,7 +12,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>YouditoR test</title>
+  <title>YouditoR test2</title>
 
   <link href="/resources/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
