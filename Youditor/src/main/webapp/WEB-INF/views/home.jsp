@@ -73,22 +73,22 @@
 
         <div class="carousel-item active" style="background-image: url('../resources/images/main_img1.jpg')">
           <div class="carousel-caption d-none d-md-block">
-            <h3>YouditoR</h3>
-            <p>Youditor 는 Youtube와 Editor의 합성어입니다.</p>
+            <h3 style="color:black">YouDitor은 무슨 뜻인가요?</h3>
+            <p style="color:black">YouDitor 는 Youtube와 Editor의 합성어입니다.</p>
           </div>
         </div>
 
         <div class="carousel-item" style="background-image: url('../resources/images/main_img2.jpg')">
           <div class="carousel-caption d-none d-md-block">
-            <h3>두번째 사진</h3>
-            <p>설명글</p>
+            <h3 style="color:gray">YouDitor은 어떤 곳인가요?</h3>
+            <p style="color:gray">YouDitor은 Youtube 편집자들을 위한 커뮤니티입니다.</p>
           </div>
         </div>
 
         <div class="carousel-item" style="background-image: url('../resources/images/main_img.jpg')">
           <div class="carousel-caption d-none d-md-block">
-            <h3>세번째</h3>
-            <p>설명글</p>
+            <h3 style="color:black">YouDitor에서는 무엇을 할 수 있나요?</h3>
+            <p style="color:black">다양한 YouDitor들과 당신의 결과물에 대해 토론하고 Creator와 협업할 수 있습니다.</p>
           </div>
         </div>
       </div>
