@@ -21,10 +21,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-Youditor/target/
-Youditor/target/m2e-wtp/web-resources/META-INF/maven/com.good/youditor/pom.properties
-Youditor/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
-Youditor/target/m2e-wtp/web-resources/META-INF/maven/com.good/youditor/pom.xml
 *.properties
 *.properties
 *.properties
@@ -32,3 +28,4 @@ Youditor/target/m2e-wtp/web-resources/META-INF/maven/com.good/youditor/pom.prope
 *.properties
 Youditor/target/m2e-wtp/web-resources/META-INF/maven/com.good/youditor/pom.properties
 *.properties
+.project
